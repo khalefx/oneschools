@@ -395,7 +395,7 @@ h2 span {
 }
 @media only screen and (max-width: 450px) {
 nav {
-    width:150% ;
+    width:100% ;
     height: 200px;
 }
 .img1 {
@@ -421,21 +421,21 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    width:150%;
+    width:100%;
 }
 .icons{
    
     display: flex;
     justify-content: center;
     align-items: center;
-    width:150%;
+    width:100%;
 }
  .pou{
     margin-top: 32vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    width:150%;
+    width:100%;
     font-size: 5vw;
  }         
 .min{
