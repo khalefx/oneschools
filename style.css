@@ -465,7 +465,7 @@ nav {
 }
 .icons {
     margin-right: 150px;
-    
+    margin-left:20px;
 
 }
 .pou {
@@ -476,5 +476,5 @@ nav {
         width:100px;
     }
     .langs{
-        margin-right:100px;
+        margin-right:150px;
     }
