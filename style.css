@@ -470,11 +470,12 @@ nav {
 }
 .pou {
     margin-right:150px;
+    margin-left:20px;
 
 } 
     .icons i {
         width:100px;
     }
     .langs{
-        margin-right:150px;
+        margin-right:250px;
     }
