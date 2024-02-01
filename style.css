@@ -469,9 +469,12 @@ nav {
 
 }
 .pou {
-    margin-left: 50px;
+    margin-right:150px;
 
 } 
     .icons i {
         width:100px;
+    }
+    .langs{
+        margin-right:100px;
     }
