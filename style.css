@@ -412,14 +412,7 @@ nav {
     height: 200px;
 }
 .img1 {
-   width: 400px;
-   height: 200px;
-   margin: 0;
-   display: flex;
-   position: relative;
-   right:-400px;
-   bottom: 800px;
-
+  display:none;
 }
 .mm{
     display:none ;
@@ -499,12 +492,4 @@ nav {
     margin: 0;
     width: 0;
     height: 0;
-}
-.img1{
-    top:-29vw;
-}
-.pou {
-    margin: 0;
-    margin-top: 12vh;
-    margin-left: 12vw;
 }
