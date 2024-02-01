@@ -464,10 +464,14 @@ nav {
 
 }
 .icons {
-    margin-left: 50px;
+    margin-right: 150px;
+    
 
 }
 .pou {
     margin-left: 50px;
 
-}
+} 
+    .icons i {
+        width:100px;
+    }
