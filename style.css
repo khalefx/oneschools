@@ -464,12 +464,12 @@ nav {
 
 }
 .icons {
-    margin-right: 150px;
+   
     margin-left:20px;
 
 }
 .pou {
-    margin-right:150px;
+    
     margin-left:20px;
 
 } 
@@ -478,4 +478,9 @@ nav {
     }
     .langs{
         margin-right:250px;
+    }
+    nav {
+        width:100
+    display:flex;
+        justify-content:center;
     }
