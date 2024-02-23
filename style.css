@@ -58,14 +58,7 @@ li{
     margin-right:40px ;
 }
 
-@media screen and (max-width: 480px) {
-{
-      
 
-
-    }
-
-  }
   .min{
     font-family: roboto;
     font-weight: bolder;
@@ -277,7 +270,7 @@ flex: 1;
 align-items: center;
 
 
-flex-direction: column;
+flex-direction: row;
 }
 
 .lang:hover{
@@ -430,7 +423,7 @@ nav {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    
+    flex-direction:column;
     margin: 0;
     width: 50%;
     
@@ -514,7 +507,7 @@ nav {
     display: flex;
     justify-content: center;
     width:100%;
-    flex-direction: column !important;
+    flex-direction: column ;
     
 }
 .lang {
@@ -527,10 +520,10 @@ nav {
 main{
     display: block !important;
     
-}
+}}
 .lolo{
     display: flex;
     justify-content: center;
     width:100%;
-    flex-direction: column;
+    flex-direction: column;}
     
