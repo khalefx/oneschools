@@ -394,7 +394,7 @@ right: 5px;
 }
 .ul{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }.subs{
     font-family: roboto;
     font-size: 36px;
@@ -409,6 +409,9 @@ right: 5px;
 }
 h2 span {
     direction: rtl !important;
+}
+.lolo{
+    flex-direction:row;
 }
 
 @media only screen and (max-width: 450px) {
