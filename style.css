@@ -540,8 +540,7 @@ main{
     }
 @media only screen and (max-width: 400px) {
 .langs{
-    margin-left:auto !important;
-    margin-right:auto !important;
+
     width: 80px !important;
 
 }
